@@ -23,7 +23,8 @@ const Details = () => {
       <p>Name : {user.name}</p>
       <p>Username : {user.username}</p>
       <p>Email : {user.email}</p>
-      <p>City : {user.address.city}</p>
+      <p>Phone : {user.phone}</p>
+      <p>Website : {user.website}</p>
     </div>
   )
 }
