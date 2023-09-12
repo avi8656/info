@@ -4,7 +4,7 @@ import About from './components/About'
 import Profile from './components/Profile'
 import Details from './components/Details'
 import { Routes, Route } from 'react-router-dom'
-import Home from './components/home'
+import Home from './components/Home'
 
 const App = () => {
   return (
